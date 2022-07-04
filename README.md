@@ -24,6 +24,31 @@ Copy the file to your user's home directory.
 cp .zshrc ~/.zshrc
 ```
 
+## `jakub.conf`
+
+Small configuration file for the Kitty Terminal.
+
+Sets the following:
+
+- the font family to `Fira Code`
+- the font size to 11
+- the cursor shape to vertical line
+- the default editor to nano
+
+### To Use
+
+Copy the file to `~/.config/kitty/`
+
+```
+cp jakub.conf ~/.config/kitty/jakub.conf
+```
+
+Add `"include jakub.conf"` to kitty config
+
+```
+echo "include jakub.conf" >> ~/.config/kitty/kitty.conf
+```
+
 ## `.prettierrc`
 
 My Prettier config file configures the Prettier autoformatter to my liking, which means among others:
