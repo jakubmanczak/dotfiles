@@ -13,8 +13,11 @@ My Z-Shell RunCommands file configures the shell to my liking, which means among
   - terminal marking (tty vs pts) and number
   - user @ hostname
   - a heart <3
+- nyae command correction
+- zsh case-insensitive command completion
 - setting the command history size of 1024
 - setting the command history to be saved to ~/.histfile
+- setting a single incremental append history
 
 ### To Use
 
