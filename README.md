@@ -24,9 +24,9 @@ Copy the file to your user's home directory.
 cp .zshrc ~/.zshrc
 ```
 
-## `jakub.conf`
+## `kittyrc.conf`
 
-Small configuration file for the Kitty Terminal.
+My configuration file for the Kitty Terminal.
 
 Sets the following:
 
@@ -40,13 +40,13 @@ Sets the following:
 Copy the file to `~/.config/kitty/`
 
 ```
-cp jakub.conf ~/.config/kitty/jakub.conf
+cp kittyrc.conf ~/.config/kitty/kittyrc.conf
 ```
 
-Add `"include jakub.conf"` to kitty config
+Add `"include kittyrc.conf"` to kitty config
 
 ```
-echo "include jakub.conf" >> ~/.config/kitty/kitty.conf
+echo "include kittyrc.conf" >> ~/.config/kitty/kitty.conf
 ```
 
 ## `.prettierrc`
@@ -61,4 +61,4 @@ My Prettier config file configures the Prettier autoformatter to my liking, whic
 
 ### To Use (in a project)
 
-Copy the file to a project's root directory or
+Copy the file to a project's root directory.
