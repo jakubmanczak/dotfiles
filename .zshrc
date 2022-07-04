@@ -3,7 +3,7 @@
 
 # PROMPT STYLING
 # --------------
-PROMPT='%F{#b000ff}%~%(?..%F{red} [EXIT %?])%F{#b000ff} » %f'
+PROMPT='%B%F{#b000ff}%~%(?..%F{red} [EXIT %?])%F{#b000ff} » %f%b'
 RPROMPT='%F{#444}♥ %n@%M - %y - %T%f'
 
 # COMMAND HISTORY
