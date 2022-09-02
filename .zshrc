@@ -31,3 +31,6 @@ setopt sharehistory # share the histfile
 setopt appendhistory # append histfile instead of overwriting it
 setopt incappendhistory # append histfile after each command
 setopt histverify # show substituted commands before accepting
+
+# aliases
+alias lf="exa -l"
