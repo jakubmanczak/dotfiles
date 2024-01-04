@@ -1,0 +1,4 @@
+alias lf="eza -lh --git"
+alias lfa="eza -lha --git"
+alias gs="git status"
+alias gc="git commit"

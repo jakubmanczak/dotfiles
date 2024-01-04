@@ -1,0 +1,5 @@
+dotfiles
+--------
+
+This repository holds my dotfiles.
+Run ./boot.sh to bootstrap quickly.
