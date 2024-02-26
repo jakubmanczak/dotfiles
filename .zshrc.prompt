@@ -1,2 +1,0 @@
-PROMPT="%B%F{4}%~%b »%f "
-RPROMPT="%F{8}♥%(?.. [EXIT %?]) %n@%m - %T%f"
