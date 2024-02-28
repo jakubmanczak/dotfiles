@@ -4,3 +4,9 @@
 	defaultBranch = master
 [core]
 	editor = nvim
+[alias]
+	staged = "diff --staged"
+	pick = "add -p"
+	p = "add -p"
+	s = "status --short"
+	log1 = "log --oneline"
