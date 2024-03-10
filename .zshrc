@@ -1,6 +1,7 @@
 PROMPT="%B%F{4}%~%b »%f "
 RPROMPT="%F{8}♥%(?.. [EXIT %?]) %n@%m - %T%f"
 
+alias py="python3"
 alias lf="eza -lh --git"
 alias lfa="eza -lha --git"
 alias tree="eza -lh --tree --git"

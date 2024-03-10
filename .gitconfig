@@ -9,4 +9,5 @@
 	pick = "add -p"
 	p = "add -p"
 	s = "status --short"
+	b = "branch"
 	log1 = "log --oneline"
