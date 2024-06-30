@@ -5,6 +5,7 @@
 [core]
 	editor = nvim
 [alias]
+	current = !git log -n 1 --oneline && git diff
 	staged = "diff --staged"
 	pick = "add -p"
 	p = "add -p"
